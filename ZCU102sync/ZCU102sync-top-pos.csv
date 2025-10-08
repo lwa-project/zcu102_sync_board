@@ -1,0 +1,6 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"J1","2081679-1","SMA_Amphenol_132203-12_Horizontal",127.000000,-86.360000,0.000000,top
+"J2","2081679-1","SMA_Amphenol_132203-12_Horizontal",142.240000,-86.360000,0.000000,top
+"J3","2081679-1","SMA_Amphenol_132203-12_Horizontal",157.480000,-86.360000,0.000000,top
+"J6","Conn_01x02","PinHeader_2x01_P2.54mm_Vertical",134.620000,-96.520000,180.000000,top
+"J7","PMOD","PinHeader_2x06_P2.54mm_Vertical",125.730000,-129.540000,180.000000,top

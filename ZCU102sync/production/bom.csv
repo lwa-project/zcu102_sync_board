@@ -1,0 +1,9 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C2",1206,2,100nF,C93194
+"J1, J2, J3",SMA_Amphenol_132203-12_Horizontal,3,2081679-1,C5723204
+J4,PinSocket_2x06_P2.54mm_Vertical,1,PMOD,C36191
+J5,PinSocket_2x04_P2.54mm_Vertical,1,Conn_02x04_Odd_Even,C22373909
+J6,PinHeader_2x01_P2.54mm_Vertical,1,Conn_01x02,C5383111
+J7,PinHeader_2x06_P2.54mm_Vertical,1,PMOD,C36191
+"R1, R2, R3",1206,3,10K,C2907423
+U2,TSSOP-14_4.4x5mm_P0.65mm,1,74LCX125MTCX,C7813

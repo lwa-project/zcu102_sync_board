@@ -1,0 +1,14 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"C1","100nF","C_1206_3216Metric_Pad1.33x1.80mm_HandSolder",152.400000,-99.060000,0.000000,bottom
+"C2","100nF","C_1206_3216Metric_Pad1.33x1.80mm_HandSolder",125.730000,-112.649000,90.000000,bottom
+"J4","PMOD","PinSocket_2x06_P2.54mm_Vertical",135.890000,-129.540000,0.000000,bottom
+"J5","Conn_02x04_Odd_Even","PinSocket_2x04_P2.54mm_Vertical",128.530000,-104.120000,-90.000000,bottom
+"R1","10K","R_1206_3216Metric_Pad1.30x1.75mm_HandSolder",153.670000,-96.520000,0.000000,bottom
+"R2","10K","R_1206_3216Metric_Pad1.30x1.75mm_HandSolder",153.670000,-93.980000,0.000000,bottom
+"R3","10K","R_1206_3216Metric_Pad1.30x1.75mm_HandSolder",133.350000,-92.710000,0.000000,bottom
+"U2","74LCX125MTCX","TSSOP-14_4.4x5mm_P0.65mm",146.050000,-95.250000,0.000000,bottom
+"J1","2081679-1","SMA_Amphenol_132203-12_Horizontal",127.000000,-86.360000,0.000000,top
+"J2","2081679-1","SMA_Amphenol_132203-12_Horizontal",142.240000,-86.360000,0.000000,top
+"J3","2081679-1","SMA_Amphenol_132203-12_Horizontal",157.480000,-86.360000,0.000000,top
+"J6","Conn_01x02","PinHeader_2x01_P2.54mm_Vertical",134.620000,-96.520000,180.000000,top
+"J7","PMOD","PinHeader_2x06_P2.54mm_Vertical",125.730000,-129.540000,180.000000,top
